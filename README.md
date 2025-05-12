@@ -1,4 +1,4 @@
-# DPIMfl
+# MORFE_follower
 
 This repo implements the method and examples from:
 * A. de F. Stabile, A. Vizzaccaro, L. Salles, A. Colombo, A. Frangi and C. Touzé: Reduced-order modelling of parameter-dependent systems with invariant manifolds: application to Hopf bifurcations in follower force problems, International Journal of Nonlinear Mechanics (2025).
