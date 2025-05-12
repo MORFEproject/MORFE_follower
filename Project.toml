@@ -1,0 +1,6 @@
+[deps]
+ExtendableSparse = "95c220a8-a1cf-11e9-0c77-dbfce5f500b3"
+IncompleteLU = "40713840-3770-5561-ab4c-a76e7d0d7895"
+IterativeSolvers = "42fd0dbc-a981-5370-80f2-aaf504508153"
+MATLAB = "10e44e05-a98a-55b3-a45b-ba969058deb6"
+Pardiso = "46dd5b70-b6fb-5a00-ae2d-e8fea33afaf2"
